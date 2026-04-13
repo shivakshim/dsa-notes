@@ -1,0 +1,4 @@
+- anytime you are asked : if a comes before b [a->b]. and so on many painrs, then carete an oredred lis wheer anll a's coe  efuier b's. - > topo sort
+- DFS : Simple, traversal;+ push_back while backtracking.
+- BFS :  Kahn  -> keep pusing indegree 0 and deccrementing indegrees.
+- 
